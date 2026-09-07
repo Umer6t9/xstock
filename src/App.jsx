@@ -1,4 +1,4 @@
-/import React, { useState, useMemo, useRef, useEffect } from "react";
+import React, { useState, useMemo, useRef, useEffect } from "react";
 import {
   Search, Plus, Minus, X, Settings, Phone, Mail, MapPin, ChevronLeft,
   Upload, Trash2, Edit3, TrendingUp, Package, LogOut, Check, Palette,
